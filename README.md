@@ -60,7 +60,7 @@ It allows users to:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/MRMADMAX217/Orions_Gaze.git
+https://github.com/siddharthaBojanki/RAG_Chatbot.git
 cd Orions_Gaze
 
 # 2️⃣ Create a virtual environment

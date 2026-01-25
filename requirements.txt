@@ -1,0 +1,12 @@
+streamlit
+langchain
+faiss-cpu 
+PyPDF2 
+wikipedia 
+tiktoken
+langchain_google_genai
+# langchain.text_splitter
+PyPDF2
+sentence_transformers
+dotenv
+langchain_community
